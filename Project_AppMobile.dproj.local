@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/12 21:10:37.000.124,=C:\Users\xdark\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 21:58:10.000.214,=C:\Users\xdark\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 22:18:26.000.455,C:\Users\xdark\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\xdark\Desktop\Projeto_Web_Mobile\uLogin.fmx</Transaction>
+    <Transaction>2022/08/18 22:18:26.000.455,C:\Users\xdark\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\xdark\Desktop\Projeto_Web_Mobile\uLogin.pas</Transaction>
+    <Transaction>2022/08/18 22:26:40.000.583,C:\Users\xdark\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\xdark\Desktop\Projeto_Web_Mobile\Project_AppMobile.dproj</Transaction>
+    <Transaction>2022/09/01 16:19:35.000.530,=C:\Users\xdark\Desktop\Projeto_Web_Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/09/01 16:19:55.000.522,C:\Users\xdark\Desktop\Projeto_Web_Mobile\Unit1.pas=C:\Users\xdark\Desktop\Projeto_Web_Mobile\uPermissoes.pas</Transaction>
+    <Transaction>2022/09/02 21:47:40.000.110,=C:\Users\xdark\Desktop\Projeto_Web_Mobile\Unit2.pas</Transaction>
+    <Transaction>2022/09/02 21:48:25.000.960,C:\Users\xdark\Desktop\Projeto_Web_Mobile\Unit2.fmx=C:\Users\xdark\Desktop\Projeto_Web_Mobile\uFrmMenu.fmx</Transaction>
+    <Transaction>2022/09/02 21:48:25.000.960,C:\Users\xdark\Desktop\Projeto_Web_Mobile\Unit2.pas=C:\Users\xdark\Desktop\Projeto_Web_Mobile\uFrmMenu.pas</Transaction>
+    <Transaction>2022/09/02 21:58:20.000.042,C:\Users\xdark\Desktop\Projeto_Web_Mobile\uFrmMenu.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
